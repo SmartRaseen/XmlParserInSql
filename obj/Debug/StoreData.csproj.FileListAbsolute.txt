@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\StoreData\StoreData\bin\Debug\StoreData.exe.config
+C:\Users\USER\source\repos\StoreData\StoreData\bin\Debug\StoreData.exe
+C:\Users\USER\source\repos\StoreData\StoreData\bin\Debug\StoreData.pdb
+C:\Users\USER\source\repos\StoreData\StoreData\obj\Debug\StoreData.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StoreData\StoreData\obj\Debug\StoreData.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StoreData\StoreData\obj\Debug\StoreData.exe
+C:\Users\USER\source\repos\StoreData\StoreData\obj\Debug\StoreData.pdb
